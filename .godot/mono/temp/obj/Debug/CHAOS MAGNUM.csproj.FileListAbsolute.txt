@@ -15,3 +15,20 @@ D:\CHAOS MAGNUM\.godot\mono\temp\obj\Debug\refint\CHAOS MAGNUM.dll
 D:\CHAOS MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.pdb
 D:\CHAOS MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.genruntimeconfig.cache
 D:\CHAOS MAGNUM\.godot\mono\temp\obj\Debug\ref\CHAOS MAGNUM.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\CHAOS MAGNUM.deps.json
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\CHAOS MAGNUM.runtimeconfig.json
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\CHAOS MAGNUM.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\CHAOS MAGNUM.pdb
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.csproj.AssemblyReference.cache
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.AssemblyInfoInputs.cache
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.AssemblyInfo.cs
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.csproj.CoreCompileInputs.cache
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.csproj.CopyComplete
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\refint\CHAOS MAGNUM.dll
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.pdb
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\CHAOS MAGNUM.genruntimeconfig.cache
+D:\CHAOS MAGNUM\CHAOS-MAGNUM\.godot\mono\temp\obj\Debug\ref\CHAOS MAGNUM.dll

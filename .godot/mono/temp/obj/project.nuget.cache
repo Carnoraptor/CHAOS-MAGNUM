@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e2AeS4oPfs2pGuitzjjCSKymH5u98QjiM3xhj+89KroGtb44rYg0hrEcwbEra0pMyBsdIX/F7awdgAbrImGTlA==",
+  "dgSpecHash": "zrkwd0zGm2L52xWG0KQRTn4opRSMsC4iPO9h1OFCDW4tvIZepsVAYYR2Ewrd+XTxbyNngwa5Zj1N3tZHMOjZpw==",
   "success": true,
-  "projectFilePath": "D:\\CHAOS MAGNUM\\CHAOS MAGNUM.csproj",
+  "projectFilePath": "D:\\CHAOS MAGNUM\\CHAOS-MAGNUM\\CHAOS MAGNUM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zlind\\.nuget\\packages\\godot.sourcegenerators\\4.1.1\\godot.sourcegenerators.4.1.1.nupkg.sha512",
     "C:\\Users\\zlind\\.nuget\\packages\\godotsharp\\4.1.1\\godotsharp.4.1.1.nupkg.sha512",

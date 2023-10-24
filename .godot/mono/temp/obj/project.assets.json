@@ -93,11 +93,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CHAOS MAGNUM\\CHAOS MAGNUM.csproj",
+      "projectUniqueName": "D:\\CHAOS MAGNUM\\CHAOS-MAGNUM\\CHAOS MAGNUM.csproj",
       "projectName": "CHAOS MAGNUM",
-      "projectPath": "D:\\CHAOS MAGNUM\\CHAOS MAGNUM.csproj",
+      "projectPath": "D:\\CHAOS MAGNUM\\CHAOS-MAGNUM\\CHAOS MAGNUM.csproj",
       "packagesPath": "C:\\Users\\zlind\\.nuget\\packages\\",
-      "outputPath": "D:\\CHAOS MAGNUM\\.godot\\mono\\temp\\obj\\",
+      "outputPath": "D:\\CHAOS MAGNUM\\CHAOS-MAGNUM\\.godot\\mono\\temp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zlind\\AppData\\Roaming\\NuGet\\NuGet.Config"
