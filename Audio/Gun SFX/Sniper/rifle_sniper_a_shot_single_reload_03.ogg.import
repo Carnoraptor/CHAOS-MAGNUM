@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bjbnl38mq2a2i"
+path="res://.godot/imported/rifle_sniper_a_shot_single_reload_03.ogg-b1ef341d6cad80c086de8804cfc43301.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Sniper/rifle_sniper_a_shot_single_reload_03.ogg"
+dest_files=["res://.godot/imported/rifle_sniper_a_shot_single_reload_03.ogg-b1ef341d6cad80c086de8804cfc43301.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

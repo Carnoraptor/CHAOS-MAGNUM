@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b7ovv881cg3pn"
+path="res://.godot/imported/medium-explosion-40472.mp3-ade1cca4680bb27c1bacb19eacf83708.mp3str"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Slash/Parry/medium-explosion-40472.mp3"
+dest_files=["res://.godot/imported/medium-explosion-40472.mp3-ade1cca4680bb27c1bacb19eacf83708.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

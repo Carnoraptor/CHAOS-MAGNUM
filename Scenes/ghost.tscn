@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://c46q6diyn25lq"]
+
+[ext_resource type="Texture2D" uid="uid://b6plcvv1y4wss" path="res://Art/PlayerSprites/PlayerDash/PlayerDash.png" id="1_ghs2v"]
+
+[node name="Ghost" type="Sprite2D"]
+modulate = Color(1, 1, 1, 0.580392)
+texture = ExtResource("1_ghs2v")

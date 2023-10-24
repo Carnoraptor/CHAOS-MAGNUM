@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://h0s2aihokpvl"
+path="res://.godot/imported/machinegun_a_shot_single_03.ogg-159d432d0b1bd84ed89fd8cec6c0ff96.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Machine Gun/machinegun_a_shot_single_03.ogg"
+dest_files=["res://.godot/imported/machinegun_a_shot_single_03.ogg-159d432d0b1bd84ed89fd8cec6c0ff96.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

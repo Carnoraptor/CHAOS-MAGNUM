@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c4lwd2uyeb1o4"
+path="res://.godot/imported/whoosh-drum-hits-169007.mp3-b6cb56fe98437506cc10f08b20bdaf71.mp3str"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Slash/Parry/whoosh-drum-hits-169007.mp3"
+dest_files=["res://.godot/imported/whoosh-drum-hits-169007.mp3-b6cb56fe98437506cc10f08b20bdaf71.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

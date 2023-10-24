@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://c71cr3xxetdw6"
+path="res://.godot/imported/pistol_a_shot_single_08.ogg-79b7a09d3e1becaad2238cc106fd060b.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Pistol/pistol_a_shot_single_08.ogg"
+dest_files=["res://.godot/imported/pistol_a_shot_single_08.ogg-79b7a09d3e1becaad2238cc106fd060b.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

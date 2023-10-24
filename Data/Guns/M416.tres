@@ -1,0 +1,42 @@
+[gd_resource type="Resource" script_class="Gun" load_steps=8 format=3 uid="uid://cfuk0ljmk150k"]
+
+[ext_resource type="PackedScene" uid="uid://dk14p335he773" path="res://Scenes/Bullet Scenes/bullet.tscn" id="1_1y6jl"]
+[ext_resource type="PackedScene" uid="uid://vkn2txvj3tg" path="res://Scenes/Gun Node Scenes/shoot_node.tscn" id="1_jpkv4"]
+[ext_resource type="AudioStream" uid="uid://8syercofit8f" path="res://Audio/Gun SFX/Rifle Auto/5.56-AR15-Single-Close-GunShot-A-www.fesliyanstudios.com.mp3" id="1_obekb"]
+[ext_resource type="Script" path="res://Scripts/Gun/Resources/Gun.cs" id="1_tc0gd"]
+[ext_resource type="Resource" uid="uid://c05lfwonuys2c" path="res://Data/Bullets/5.56Bullet.tres" id="2_ry06o"]
+[ext_resource type="PackedScene" uid="uid://dmwundvhinyxp" path="res://Scenes/Gun Node Scenes/gun_audio_node.tscn" id="2_v67wf"]
+[ext_resource type="Texture2D" uid="uid://bqpfmcpu0u8b1" path="res://Art/Guns/M416.png" id="4_jilxo"]
+
+[resource]
+script = ExtResource("1_tc0gd")
+_gunName = "M416"
+_gunType = 0
+_gunID = 0
+_gunDesc = ""
+_damage = 15
+_fireRate = 0.14
+_inaccuracy = 0.1
+_armorPen = 0
+_bulletSpeed = 540.0
+_bulletsAtOnce = 0
+_bullet = ExtResource("1_1y6jl")
+_bulletResource = ExtResource("2_ry06o")
+_radius = 6.0
+_bulletOffset = Vector2(16, -3)
+_leftArmPos = Vector2(0, 0)
+_rightArmPos = Vector2(0, 0)
+_gunSprite = ExtResource("4_jilxo")
+_gunSFX = ExtResource("1_obekb")
+_shakeMag = 1.0
+_shakeDur = 0.1
+_hasMuzzleSlot = false
+_hasOpticSlot = false
+_hasLowerRailSlot = false
+_hasSideRailSlot = false
+_hasRoundsSlot = false
+_muzzleLoc = Vector2(0, 0)
+_opticLoc = Vector2(0, 0)
+_lowerRailLoc = Vector2(0, 0)
+_sideRailLoc = Vector2(0, 0)
+gunNodes = [ExtResource("1_jpkv4"), ExtResource("2_v67wf")]

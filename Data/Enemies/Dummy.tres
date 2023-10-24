@@ -1,0 +1,20 @@
+[gd_resource type="Resource" script_class="Enemy" load_steps=3 format=3 uid="uid://btajqw15k18ep"]
+
+[ext_resource type="Script" path="res://Scripts/Enemy/Enemy.cs" id="1_8krg6"]
+[ext_resource type="PackedScene" uid="uid://cvkfwir3uj5h1" path="res://Scenes/Entity Node Scenes/health_node.tscn" id="1_t18ox"]
+
+[resource]
+script = ExtResource("1_8krg6")
+_enemyName = "Dummy"
+_enemyType = 5
+_enemyID = 1
+_enemyHP = 999999
+_enemyArmor = 0
+_enemyDamage = 0
+_enemyArmorPierce = 0
+_enemySpeed = 0.0
+_enemyAttackRate = 0.0
+_doesContactDamage = false
+_contactDamage = 0
+_contactAP = 0
+_enemyNodes = [ExtResource("1_t18ox")]

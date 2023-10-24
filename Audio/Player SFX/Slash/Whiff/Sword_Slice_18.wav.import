@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://8in6gj1tblts"
+path="res://.godot/imported/Sword_Slice_18.wav-ff9323b29e1d2f1fb53d76dbc7a17f76.sample"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Slash/Whiff/Sword_Slice_18.wav"
+dest_files=["res://.godot/imported/Sword_Slice_18.wav-ff9323b29e1d2f1fb53d76dbc7a17f76.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

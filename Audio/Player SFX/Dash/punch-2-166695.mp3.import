@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dg5m0u4lsnc2e"
+path="res://.godot/imported/punch-2-166695.mp3-4a93cbb583d889dc694b478e3465e94d.mp3str"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Dash/punch-2-166695.mp3"
+dest_files=["res://.godot/imported/punch-2-166695.mp3-4a93cbb583d889dc694b478e3465e94d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

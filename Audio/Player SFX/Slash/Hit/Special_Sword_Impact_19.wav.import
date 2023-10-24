@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dvnqjdafvh522"
+path="res://.godot/imported/Special_Sword_Impact_19.wav-a93e2e043fec0fe75d46f1256ab06e0c.sample"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Slash/Hit/Special_Sword_Impact_19.wav"
+dest_files=["res://.godot/imported/Special_Sword_Impact_19.wav-a93e2e043fec0fe75d46f1256ab06e0c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

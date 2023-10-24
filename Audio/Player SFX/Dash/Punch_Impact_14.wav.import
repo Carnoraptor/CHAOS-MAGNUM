@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://by4gcb0whod7w"
+path="res://.godot/imported/Punch_Impact_14.wav-cc8f637d347daad97304dcc5d711271e.sample"
+
+[deps]
+
+source_file="res://Audio/Player SFX/Dash/Punch_Impact_14.wav"
+dest_files=["res://.godot/imported/Punch_Impact_14.wav-cc8f637d347daad97304dcc5d711271e.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

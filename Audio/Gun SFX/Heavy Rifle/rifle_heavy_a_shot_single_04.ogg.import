@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dk4p3katthg40"
+path="res://.godot/imported/rifle_heavy_a_shot_single_04.ogg-fa6a53cd05d23532b3e90eca9ce883cd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Heavy Rifle/rifle_heavy_a_shot_single_04.ogg"
+dest_files=["res://.godot/imported/rifle_heavy_a_shot_single_04.ogg-fa6a53cd05d23532b3e90eca9ce883cd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://dk14p335he773"]
+
+[ext_resource type="Script" path="res://Scripts/Gun/Bullet Scripts/BasicBullet.cs" id="1_43jyn"]
+[ext_resource type="Texture2D" uid="uid://dpnpewbg3cp33" path="res://Art/Bullets/BulletPlaceholder.png" id="1_flamc"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3mdtk"]
+size = Vector2(4, 2)
+
+[node name="Bullet" type="Area2D"]
+position = Vector2(2, 0)
+script = ExtResource("1_43jyn")
+
+[node name="BulletSprite" type="Sprite2D" parent="."]
+texture = ExtResource("1_flamc")
+
+[node name="BulletCollider" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_3mdtk")

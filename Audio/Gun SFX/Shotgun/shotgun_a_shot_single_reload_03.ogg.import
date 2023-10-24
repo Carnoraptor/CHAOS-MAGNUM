@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bdnkhjlt6jifa"
+path="res://.godot/imported/shotgun_a_shot_single_reload_03.ogg-ccfad7a3a69056f6101b5c2951d25a57.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Shotgun/shotgun_a_shot_single_reload_03.ogg"
+dest_files=["res://.godot/imported/shotgun_a_shot_single_reload_03.ogg-ccfad7a3a69056f6101b5c2951d25a57.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ttgkrlvp1x3o"
+path="res://.godot/imported/M249Edited.mp3-6803dc269e65ace94eb29d66e3cb3fcd.mp3str"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Machine Gun/M249Edited.mp3"
+dest_files=["res://.godot/imported/M249Edited.mp3-6803dc269e65ace94eb29d66e3cb3fcd.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

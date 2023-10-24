@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cj6i6gkavd2f0"
+path="res://.godot/imported/rifle_auto_a_shot_single_08.ogg-ab424d373a6cffa462f0ca01b676949a.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Gun SFX/Rifle Auto/rifle_auto_a_shot_single_08.ogg"
+dest_files=["res://.godot/imported/rifle_auto_a_shot_single_08.ogg-ab424d373a6cffa462f0ca01b676949a.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

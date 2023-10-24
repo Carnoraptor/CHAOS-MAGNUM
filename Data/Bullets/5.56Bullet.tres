@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Bullet" load_steps=3 format=3 uid="uid://c05lfwonuys2c"]
+
+[ext_resource type="Script" path="res://Scripts/Gun/Resources/Bullet.cs" id="1_b1bef"]
+[ext_resource type="Texture2D" uid="uid://dpnpewbg3cp33" path="res://Art/Bullets/BulletPlaceholder.png" id="1_ou4sw"]
+
+[resource]
+script = ExtResource("1_b1bef")
+_bulletName = "5.56"
+_bulletLifetime = 5.0
+_bulletSprite = ExtResource("1_ou4sw")
