@@ -155,4 +155,9 @@ public partial class GunHandler : Node2D
 			AddChild(nodeInstance);
 		}
 	}
+	
+	public void PickUpGun(Gun newGun)
+	{
+		LoadGun(newGun);
+	}
 }

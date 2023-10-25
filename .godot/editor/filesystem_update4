@@ -1,13 +1,18 @@
 res://Scenes/TestingScene.tscn
-res://Scripts/Enemy/HealthNode.cs
-res://Scripts/Enemy/Enemy.cs
-res://Scripts/Enemy/Entity.cs
-res://Scripts/Enemy/EntityBase.cs
-res://Scripts/Enemy/EnemyHitbox.cs
+res://Data/Enemies/Dummy.tres
+res://Scripts/Gun/DroppedGun.cs
+res://Data/Guns/AK47.tres
+res://Data/Guns/M416.tres
 res://Scenes/Bullet Scenes/bullet.tscn
 res://Scenes/ghost.tscn
 res://Scenes/Gun Node Scenes/shoot_node.tscn
+res://Scenes/Entity Node Scenes/health_node.tscn
 res://Scripts/Cam.cs
+res://Scripts/Enemy/Custom Enemy Behaviors/DummySprite.cs
+res://Scripts/Enemy/Enemy.cs
+res://Scripts/Enemy/EnemyHitbox.cs
+res://Scripts/Enemy/EntityBase.cs
+res://Scripts/Enemy/HealthNode.cs
 res://Scripts/Gun/Bullet Scripts/BasicBullet.cs
 res://Scripts/Gun/Bullet Scripts/BulletBase.cs
 res://Scripts/Gun/Gun Nodes/GunAudioNode.cs
@@ -22,8 +27,3 @@ res://Scripts/Player/Player.cs
 res://Scripts/Player/PlayerMovement.cs
 res://Scripts/Player/PlayerSprite.cs
 res://Scripts/ProjectileBase.cs
-res://Scenes/Entity Node Scenes/health_node.tscn
-res://Data/Enemies/Dummy.tres
-res://Data/Guns/M416.tres
-res://Scripts/Enemy/Custom Enemy Behaviors/DummySprite.cs
-res://Scripts/Utility.cs

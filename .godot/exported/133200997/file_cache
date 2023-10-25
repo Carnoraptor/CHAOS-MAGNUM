@@ -1,0 +1,9 @@
+res://Data/Bullets/5.56Bullet.tres::fe52f2bd853165b2ea59b18360c98500::1697514763::res://.godot/exported/133200997/export-6b8758c42f0e5a3731e2aad9ae091de2-5.56Bullet.res
+res://Data/Enemies/Dummy.tres::1fbaaca9027c31d6f087197180ecbe21::1698111433::res://.godot/exported/133200997/export-518a44dce27001ae8da096028e2243d2-Dummy.res
+res://Data/Guns/M416.tres::b09f83b2e761ad263148657ba27ba87b::1698112549::res://.godot/exported/133200997/export-102ca9b8fab914f61bf7688afa5eac09-M416.res
+res://Scenes/Bullet Scenes/bullet.tscn::04f95db9cd276bb8658704a1d6b1779d::1698115284::res://.godot/exported/133200997/export-88ed1f3602d9881fd45d201128dcd78d-bullet.scn
+res://Scenes/Entity Node Scenes/health_node.tscn::fd75c517d9ddb871b0b30812267d7df3::1698115284::res://.godot/exported/133200997/export-219dd6e828ea5d063e96b000db65c6b7-health_node.scn
+res://Scenes/Gun Node Scenes/gun_audio_node.tscn::84fa849af67e59b2d885a48cf3319532::1697491569::res://.godot/exported/133200997/export-330c6731efd141a38079ae178f368daa-gun_audio_node.scn
+res://Scenes/Gun Node Scenes/shoot_node.tscn::e06bc9d79220121acd195756f91382fc::1698115284::res://.godot/exported/133200997/export-c4df7cff1a79efc0f4d677f95064ca96-shoot_node.scn
+res://Scenes/ghost.tscn::9d64d308d21bd52c8525268ec88b4cfa::1698115284::res://.godot/exported/133200997/export-6a99f35563fecd8e1c7bb67110cbf436-ghost.scn
+res://Scenes/TestingScene.tscn::26a2d026a3abcadbfa0399451ee96ec4::1698115485::res://.godot/exported/133200997/export-7dd062cf920689396804ac57d13416f8-TestingScene.scn

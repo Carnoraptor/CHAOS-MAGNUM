@@ -1,3 +1,3 @@
+Gun
 Enemy
 Bullet
-Gun

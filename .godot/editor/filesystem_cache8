@@ -1,5 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1698107785
+::res://::1698194108
+default_bus_layout.tres::AudioBusLayout::139491478707551540::1698188480::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1698119655::0::1::::<><>::
 icon.svg::CompressedTexture2D::888993936257746009::1695165404::1695165414::1::::<><>::
 ::res://Art/::1695609480
 EnemyBullet.png::CompressedTexture2D::3898066889625330152::1692907865::1695347889::1::::<><>::
@@ -248,7 +250,8 @@ Lady Radical.ttf::FontFile::8064326674615034649::1682977358::1695347862::1::::<>
 mini_pixel-7.ttf::FontFile::5680148549708115176::1682977401::1695347862::1::::<><>::
 mini_pixel-7_screen.png::CompressedTexture2D::2893209308472045277::1682977401::1695347910::1::::<><>::
 readme.txt::TextFile::-1::1682977401::0::1::::<><>::
-::res://Art/Guns/::1697405652
+::res://Art/Guns/::1698194792
+AK47.png::CompressedTexture2D::7176032061650482732::1698194809::1698194814::1::::<><>::
 BP917.png::CompressedTexture2D::2554593844173101808::1691521815::1695347909::1::::<><>::
 Kraber.png::CompressedTexture2D::7177209276869446692::1690752575::1695347909::1::::<><>::
 M1Garand.png::CompressedTexture2D::6595527733225038040::1690752120::1695347911::1::::<><>::
@@ -2169,39 +2172,45 @@ whoosh-drum-hits-169007.mp3::AudioStreamMP3::6832368569528783273::1697392005::16
 ::res://Audio/Player SFX/Slash/Whiff/::1696792977
 Sword_Slice_18.wav::AudioStreamWAV::2333591872854667388::1691526558::1696792977::1::::<><>::
 Sword_Slice_19.wav::AudioStreamWAV::8898706861034118689::1691526558::1696792977::1::::<><>::
+::res://Builds/::1698119612
 ::res://Data/::1698111222
 ::res://Data/Bullets/::1697514763
 5.56Bullet.tres::Resource/Resource::6590171784608077824::1697514763::0::1::::<><>::res://Scripts/Gun/Resources/Bullet.cs<>uid://dpnpewbg3cp33
-::res://Data/Enemies/::1698111433
-Dummy.tres::Resource/Enemy::3720584935509197131::1698111433::0::1::::<><>::res://Scripts/Enemy/Enemy.cs<>uid://cvkfwir3uj5h1::::res://Scenes/Entity Node Scenes/health_node.tscn
-::res://Data/Guns/::1698112549
-M416.tres::Resource/Gun::5165725547652583812::1698112549::0::1::::<><>::uid://dk14p335he773::::res://Scenes/Bullet Scenes/bullet.tscn<>uid://vkn2txvj3tg::::res://Scenes/Gun Node Scenes/shoot_node.tscn<>uid://8syercofit8f::::res://Audio/Gun SFX/Rifle Auto/5.56-AR15-Single-Close-GunShot-A-www.fesliyanstudios.com.mp3<>res://Scripts/Gun/Resources/Gun.cs<>uid://c05lfwonuys2c::::res://Data/Bullets/5.56Bullet.tres<>uid://dmwundvhinyxp::::res://Scenes/Gun Node Scenes/gun_audio_node.tscn<>uid://bqpfmcpu0u8b1::::res://Art/Guns/M416.png
-::res://Scenes/::1698113681
-ghost.tscn::PackedScene::6873340545797714086::1698113681::0::1::::<><>::uid://b6plcvv1y4wss::::res://Art/PlayerSprites/PlayerDash/PlayerDash.png
-TestingScene.tscn::PackedScene::7965636661684200253::1698113730::0::1::::<><>::res://Scripts/Player/PlayerMovement.cs<>uid://carc8t6eersda::::res://Art/PlayerSprites/SmallerPlayer.png<>res://Scripts/Player/PlayerSprite.cs<>uid://dgbpt8pkarj3g::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk1.png<>res://Scripts/Cam.cs<>uid://d3st1ywdg4gwx::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk2.png<>uid://dtx2wxcxyaavq::::res://Art/Tilesets/Sarnath Tiles/Floor1.png<>uid://crwjaendp0xg6::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk3.png<>uid://e5svwivdqmrs::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk4.png<>uid://djjepsdhvd87y::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk5.png<>uid://vbhti7rdxxmm::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk6.png<>uid://ihwthy7l1xqj::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk7.png<>uid://37ivc2ehllnq::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk8.png<>uid://0wuknqavvedg::::res://Art/PlayerSprites/SlashAnim/SlashAnim1.png<>res://Scripts/Player/Knife.cs<>uid://dcfdw4g0vfbb6::::res://Art/PlayerSprites/SlashAnim/SlashAnim2.png<>uid://csbig1j6kdy7w::::res://Art/PlayerSprites/SlashAnim/SlashAnim3.png<>uid://l3528rxina62::::res://Art/PlayerSprites/SlashAnim/SlashAnim4.png<>uid://bow7fv3jdiopy::::res://Art/PlayerSprites/SlashAnim/SlashAnim5.png<>uid://b4iism763qrcf::::res://Art/PlayerSprites/SlashAnim/SlashAnim6.png<>uid://c2mmxooc20t8e::::res://Art/PlayerSprites/SlashAnim/SlashAnim7.png<>uid://epu8x03s0ame::::res://Art/PlayerSprites/SlashAnim/SlashAnim8.png<>uid://pq40hwswhhov::::res://Art/PlayerSprites/SlashAnim/SlashAnim9.png<>uid://m1lcdrrc3a21::::res://Art/PlayerSprites/SlashAnim/SlashAnim10.png<>uid://bi3gr4d4co218::::res://Audio/Player SFX/Slash/Parry/DrumParry.wav<>uid://ctapwqada2qiw::::res://Art/Enemy Sprites/Projectiles/BigEnemyBullet.png<>res://Scripts/ProjectileBase.cs<>res://Scripts/Gun/GunHandler.cs<>uid://dh4rmkc7lm0mj::::res://Art/null.png<>uid://bqpfmcpu0u8b1::::res://Art/Guns/M416.png<>uid://8in6gj1tblts::::res://Audio/Player SFX/Slash/Whiff/Sword_Slice_18.wav<>uid://by4gcb0whod7w::::res://Audio/Player SFX/Dash/Punch_Impact_14.wav<>uid://cfkcscis7xoop::::res://Art/Tilesets/SarnathTileset.png<>res://Scripts/Player/DashSound.cs<>uid://dy1unwtv541ib::::res://Audio/Player SFX/Slash/Whiff/Sword_Slice_19.wav<>res://Scripts/Enemy/EntityBase.cs<>uid://b4dumjwji35l4::::res://Art/Enemy Sprites/Unique/Dummy/Dummy1.png<>uid://btajqw15k18ep::::res://Data/Enemies/Dummy.tres<>uid://b5iac5psbmsnb::::res://Art/Enemy Sprites/Unique/Dummy/Dummy2.png<>uid://cacw6cx6unxb4::::res://Art/Enemy Sprites/Unique/Dummy/Dummy3.png<>uid://uqbc7f14v87k::::res://Art/Enemy Sprites/Unique/Dummy/Dummy4.png<>uid://cl4pvhubsulff::::res://Art/Enemy Sprites/Unique/Dummy/Dummy5.png<>res://Scripts/Enemy/EnemyHitbox.cs
-::res://Scenes/Bullet Scenes/::1698113681
-bullet.tscn::PackedScene::7916613404044922156::1698113681::0::1::::<><>::res://Scripts/Gun/Bullet Scripts/BasicBullet.cs<>uid://dpnpewbg3cp33::::res://Art/Bullets/BulletPlaceholder.png
-::res://Scenes/Entity Node Scenes/::1698113681
-health_node.tscn::PackedScene::6267794181503003464::1698113681::0::1::::<><>::res://Scripts/Enemy/HealthNode.cs
-::res://Scenes/Gun Node Scenes/::1698113681
+::res://Data/Enemies/::1698194289
+Dummy.tres::Resource/Enemy::3720584935509197131::1698194289::0::1::::<><>::res://Scripts/Enemy/Enemy.cs<>uid://cvkfwir3uj5h1::::res://Scenes/Entity Node Scenes/health_node.tscn
+::res://Data/Guns/::1698194379
+M416.tres::Resource/Resource::5165725547652583812::1698112549::0::1::::<><>::uid://dk14p335he773
+AK47.tres::Resource/Gun::5290333043836086047::1698194379::0::1::::<><>::res://Scripts/Gun/Resources/Gun.cs
+::res://Scenes/::1698194336
+ghost.tscn::PackedScene::6873340545797714086::1698192688::0::1::::<><>::uid://b6plcvv1y4wss::::res://Art/PlayerSprites/PlayerDash/PlayerDash.png
+TestingScene.tscn::PackedScene::7965636661684200253::1698194336::0::1::::<><>::res://Scripts/Player/PlayerMovement.cs<>uid://carc8t6eersda::::res://Art/PlayerSprites/SmallerPlayer.png<>res://Scripts/Player/PlayerSprite.cs<>uid://dgbpt8pkarj3g::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk1.png<>res://Scripts/Cam.cs<>uid://d3st1ywdg4gwx::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk2.png<>uid://dtx2wxcxyaavq::::res://Art/Tilesets/Sarnath Tiles/Floor1.png<>uid://crwjaendp0xg6::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk3.png<>uid://e5svwivdqmrs::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk4.png<>uid://djjepsdhvd87y::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk5.png<>uid://vbhti7rdxxmm::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk6.png<>uid://ihwthy7l1xqj::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk7.png<>uid://37ivc2ehllnq::::res://Art/PlayerSprites/PlayerWalk/PlayerWalk8.png<>uid://0wuknqavvedg::::res://Art/PlayerSprites/SlashAnim/SlashAnim1.png<>res://Scripts/Player/Knife.cs<>uid://dcfdw4g0vfbb6::::res://Art/PlayerSprites/SlashAnim/SlashAnim2.png<>uid://csbig1j6kdy7w::::res://Art/PlayerSprites/SlashAnim/SlashAnim3.png<>uid://l3528rxina62::::res://Art/PlayerSprites/SlashAnim/SlashAnim4.png<>uid://bow7fv3jdiopy::::res://Art/PlayerSprites/SlashAnim/SlashAnim5.png<>uid://b4iism763qrcf::::res://Art/PlayerSprites/SlashAnim/SlashAnim6.png<>uid://c2mmxooc20t8e::::res://Art/PlayerSprites/SlashAnim/SlashAnim7.png<>uid://epu8x03s0ame::::res://Art/PlayerSprites/SlashAnim/SlashAnim8.png<>uid://pq40hwswhhov::::res://Art/PlayerSprites/SlashAnim/SlashAnim9.png<>uid://m1lcdrrc3a21::::res://Art/PlayerSprites/SlashAnim/SlashAnim10.png<>uid://bi3gr4d4co218::::res://Audio/Player SFX/Slash/Parry/DrumParry.wav<>uid://ctapwqada2qiw::::res://Art/Enemy Sprites/Projectiles/BigEnemyBullet.png<>res://Scripts/ProjectileBase.cs<>res://Scripts/Gun/GunHandler.cs<>uid://dh4rmkc7lm0mj::::res://Art/null.png<>uid://bqpfmcpu0u8b1::::res://Art/Guns/M416.png<>uid://8in6gj1tblts::::res://Audio/Player SFX/Slash/Whiff/Sword_Slice_18.wav<>uid://by4gcb0whod7w::::res://Audio/Player SFX/Dash/Punch_Impact_14.wav<>uid://cfkcscis7xoop::::res://Art/Tilesets/SarnathTileset.png<>res://Scripts/Player/DashSound.cs<>uid://dy1unwtv541ib::::res://Audio/Player SFX/Slash/Whiff/Sword_Slice_19.wav<>res://Scripts/Enemy/EntityBase.cs<>uid://b4dumjwji35l4::::res://Art/Enemy Sprites/Unique/Dummy/Dummy1.png<>uid://btajqw15k18ep::::res://Data/Enemies/Dummy.tres<>uid://b5iac5psbmsnb::::res://Art/Enemy Sprites/Unique/Dummy/Dummy2.png<>uid://cacw6cx6unxb4::::res://Art/Enemy Sprites/Unique/Dummy/Dummy3.png<>uid://uqbc7f14v87k::::res://Art/Enemy Sprites/Unique/Dummy/Dummy4.png<>uid://cl4pvhubsulff::::res://Art/Enemy Sprites/Unique/Dummy/Dummy5.png<>res://Scripts/Enemy/EnemyHitbox.cs<>res://Scripts/Enemy/Custom Enemy Behaviors/DummySprite.cs
+::res://Scenes/Bullet Scenes/::1698192688
+bullet.tscn::PackedScene::7916613404044922156::1698192688::0::1::::<><>::res://Scripts/Gun/Bullet Scripts/BasicBullet.cs<>uid://dpnpewbg3cp33::::res://Art/Bullets/BulletPlaceholder.png
+::res://Scenes/Entity Node Scenes/::1698192688
+health_node.tscn::PackedScene::6267794181503003464::1698192688::0::1::::<><>::res://Scripts/Enemy/HealthNode.cs
+::res://Scenes/Gun Node Scenes/::1698192688
 gun_audio_node.tscn::PackedScene::8048182230841321093::1697491569::0::1::::<><>::res://Scripts/Gun/Gun Nodes/GunAudioNode.cs
-shoot_node.tscn::PackedScene::43983766638885940::1698113681::0::1::::<><>::res://Scripts/Gun/Gun Nodes/ShootNode.cs
-::res://Scripts/::1698111597
+shoot_node.tscn::PackedScene::43983766638885940::1698192688::0::1::::<><>::res://Scripts/Gun/Gun Nodes/ShootNode.cs
+::res://Scripts/::1698114319
 Cam.cs::CSharpScript::-1::1697400593::0::1::::<><>::
 Hitbox.cs::CSharpScript::-1::1696386355::0::1::::<><>::
 ProjectileBase.cs::CSharpScript::-1::1698111597::0::1::::<><>::
-::res://Scripts/Enemy/::1698113678
+Utility.cs::CSharpScript::-1::1698114319::0::1::::<><>::
+::res://Scripts/Enemy/::1698114476
 Enemy.cs::CSharpScript::-1::1698109979::0::1::::Enemy<>Resource<>::
 EnemyHitbox.cs::CSharpScript::-1::1698113715::0::1::::<><>::
 EntityBase.cs::CSharpScript::-1::1698113678::0::1::::<><>::
-HealthNode.cs::CSharpScript::-1::1698113724::0::1::::<><>::
-::res://Scripts/Gun/::1698113201
+HealthNode.cs::CSharpScript::-1::1698114476::0::1::::<><>::
+::res://Scripts/Enemy/Custom Enemy Behaviors/::1698115159
+DummySprite.cs::CSharpScript::-1::1698115159::0::1::::<><>::
+::res://Scripts/Gun/::1698194336
 GunHandler.cs::CSharpScript::-1::1698113201::0::1::::<><>::
-::res://Scripts/Gun/Bullet Scripts/::1697644452
-BasicBullet.cs::CSharpScript::-1::1697582857::0::1::::<><>::
-BulletBase.cs::CSharpScript::-1::1697644452::0::1::::<><>::
-::res://Scripts/Gun/Gun Nodes/::1698113073
-GunAudioNode.cs::CSharpScript::-1::1698113073::0::1::::<><>::
+DroppedGun.cs::CSharpScript::-1::1698194336::0::1::::<><>::
+::res://Scripts/Gun/Bullet Scripts/::1698188373
+BasicBullet.cs::CSharpScript::-1::1698188373::0::1::::<><>::
+BulletBase.cs::CSharpScript::-1::1698188098::0::1::::<><>::
+::res://Scripts/Gun/Gun Nodes/::1698114444
+GunAudioNode.cs::CSharpScript::-1::1698114444::0::1::::<><>::
 ShootNode.cs::CSharpScript::-1::1698113730::0::1::::<><>::
 ::res://Scripts/Gun/Resources/::1697583622
 Bullet.cs::CSharpScript::-1::1697514679::0::1::::Bullet<>Resource<>::

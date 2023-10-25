@@ -1,0 +1,40 @@
+[gd_resource type="Resource" script_class="Gun" load_steps=6 format=3 uid="uid://chmxaohve72el"]
+
+[ext_resource type="Script" path="res://Scripts/Gun/Resources/Gun.cs" id="1_kp3of"]
+[ext_resource type="PackedScene" uid="uid://dk14p335he773" path="res://Scenes/Bullet Scenes/bullet.tscn" id="1_t0ir6"]
+[ext_resource type="Resource" uid="uid://c05lfwonuys2c" path="res://Data/Bullets/5.56Bullet.tres" id="2_wdxba"]
+[ext_resource type="AudioStream" uid="uid://8rbd4nlnkso7" path="res://Audio/Gun SFX/Rifle Auto/rifle_auto_a_shot_single_01.ogg" id="3_82od3"]
+[ext_resource type="Texture2D" uid="uid://daieg11ayc66c" path="res://Art/Guns/AK47.png" id="4_4pwqn"]
+
+[resource]
+script = ExtResource("1_kp3of")
+_gunName = "AK47"
+_gunType = 1
+_gunID = 2
+_gunDesc = ""
+_damage = 21
+_fireRate = 0.19
+_inaccuracy = 0.15
+_armorPen = 0
+_bulletSpeed = 500.0
+_bulletsAtOnce = 0
+_bullet = ExtResource("1_t0ir6")
+_bulletResource = ExtResource("2_wdxba")
+_radius = 6.0
+_bulletOffset = Vector2(17, -3)
+_leftArmPos = Vector2(0, 0)
+_rightArmPos = Vector2(0, 0)
+_gunSprite = ExtResource("4_4pwqn")
+_gunSFX = ExtResource("3_82od3")
+_shakeMag = 0.0
+_shakeDur = 0.0
+_hasMuzzleSlot = false
+_hasOpticSlot = false
+_hasLowerRailSlot = false
+_hasSideRailSlot = false
+_hasRoundsSlot = false
+_muzzleLoc = Vector2(0, 0)
+_opticLoc = Vector2(0, 0)
+_lowerRailLoc = Vector2(0, 0)
+_sideRailLoc = Vector2(0, 0)
+gunNodes = []

@@ -15,3 +15,7 @@ texture = ExtResource("1_flamc")
 
 [node name="BulletCollider" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_3mdtk")
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+[connection signal="body_shape_entered" from="." to="." method="_on_body_shape_entered"]

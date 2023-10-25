@@ -25,4 +25,15 @@ public partial class BulletBase : Area2D
 		await ToSignal(GetTree().CreateTimer(timeUntilDeath), "timeout");
 		QueueFree();
 	}
+	
+	private void _on_area_entered(Area2D area)
+	{
+		QueueFree();
+	}	
+	
+	private void _on_body_entered(Node2D body)
+	{
+		QueueFree();
+	}
+	
 }
